@@ -1,1 +1,3 @@
-# cuba-free-bot-6.3
+## Deploy in One Click
+
+[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/DavidTamayo95/uwubotsamjjj)
